@@ -1,1 +1,5 @@
-5
+import subprocess,os
+os.system
+raw_input("""
+V cracked 5.9 developer
+""")
